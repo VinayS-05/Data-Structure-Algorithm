@@ -1,5 +1,4 @@
-# Data-Structure-Algorithm
-# data-structure-algorithm
+
 # Data Structure algorithm(In Java)
 # Data Structure:
 ### *A named location that can be used to store and organize data.
